@@ -1,1 +1,2 @@
 # -in-bunlar-tamamlaman-z-gerekiyor
+.
